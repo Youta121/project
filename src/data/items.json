@@ -1,0 +1,32 @@
+[
+    {
+      "id": 1,
+      "name": "Jacket",
+      "price": 50,
+      "imgUrl": "/imgs/jacket.png"
+    },
+    {
+      "id": 2,
+      "name": "sweatshirt miami",
+      "price": 45,
+      "imgUrl": "/imgs/sweatshirt miami.png"
+    },
+    {
+      "id": 3,
+      "name": "T-shirt",
+      "price": 32,
+      "imgUrl": "/imgs/reveur.png"
+    },
+    {
+      "id": 4,
+      "name": "New-York Style",
+      "price": 120,
+      "imgUrl": "/imgs/new york.png"
+    },
+    {
+      "id": 5,
+      "name": "jogging Green",
+      "price": 95,
+      "imgUrl": "/imgs/jogging green.png"
+    }
+  ]
